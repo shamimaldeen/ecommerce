@@ -1,0 +1,3 @@
+DB_DATABASE=smartonl_ecom
+DB_USERNAME=smartonl_ecom
+DB_PASSWORD=explore+88
